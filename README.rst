@@ -47,3 +47,8 @@ Invenio module that is able to merge json record objects.
 
 * Free software: GPLv2 license
 * Documentation: https://pythonhosted.org/json-merger/
+
+
+.. image:: https://badges.gitter.im/mihaibivol/json-merger.svg
+   :alt: Join the chat at https://gitter.im/mihaibivol/json-merger
+   :target: https://gitter.im/mihaibivol/json-merger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
